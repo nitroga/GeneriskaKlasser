@@ -58,7 +58,7 @@ while (true)
         }
         else
         {
-            Console.WriteLine("Ingen står i kön");
+            Console.WriteLine("Ingen står i kön\n");
         }
     }
 }
